@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2022-05-09T10:11:52+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/projet/deuxieme-projet-2022/</loc>
+    <lastmod>2022-05-09T10:11:52+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/documentation/</loc>
+    <lastmod>2022-05-09T10:11:52+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/informatique/</loc>
+    <lastmod>2022-05-09T10:11:52+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/</loc>
+    <lastmod>2022-05-09T10:11:52+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/projet/premier-projet-2022/</loc>
+    <lastmod>2022-05-09T10:11:52+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/projet/</loc>
+    <lastmod>2022-05-09T10:11:52+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2022-04-25T11:15:55+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/blog/mon-premier-article/</loc>
+    <lastmod>2022-04-25T11:15:55+02:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+</urlset>
