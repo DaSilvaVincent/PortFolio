@@ -6,22 +6,40 @@
     <description>Recent content in Categories on Mon e-Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
-    <lastBuildDate>Mon, 09 May 2022 10:11:52 +0200</lastBuildDate><atom:link href="https://dasilvavincent.github.io/PortFolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 May 2022 10:11:52 +0200</lastBuildDate><atom:link href="https://dasilvavincent.github.io/PortFolio/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>documentation</title>
-      <link>https://dasilvavincent.github.io/PortFolio/categories/documentation/</link>
-      <pubDate>Mon, 09 May 2022 10:11:52 +0200</pubDate>
+      <title>Developpement</title>
+      <link>https://dasilvavincent.github.io/PortFolio/categories/developpement/</link>
+      <pubDate>Mon, 23 May 2022 10:11:52 +0200</pubDate>
       
-      <guid>https://dasilvavincent.github.io/PortFolio/categories/documentation/</guid>
+      <guid>https://dasilvavincent.github.io/PortFolio/categories/developpement/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>informatique</title>
-      <link>https://dasilvavincent.github.io/PortFolio/categories/informatique/</link>
+      <title>Java</title>
+      <link>https://dasilvavincent.github.io/PortFolio/categories/java/</link>
+      <pubDate>Mon, 23 May 2022 10:11:52 +0200</pubDate>
+      
+      <guid>https://dasilvavincent.github.io/PortFolio/categories/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmation</title>
+      <link>https://dasilvavincent.github.io/PortFolio/categories/programmation/</link>
+      <pubDate>Mon, 23 May 2022 10:11:52 +0200</pubDate>
+      
+      <guid>https://dasilvavincent.github.io/PortFolio/categories/programmation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://dasilvavincent.github.io/PortFolio/categories/python/</link>
       <pubDate>Mon, 09 May 2022 10:11:52 +0200</pubDate>
       
-      <guid>https://dasilvavincent.github.io/PortFolio/categories/informatique/</guid>
+      <guid>https://dasilvavincent.github.io/PortFolio/categories/python/</guid>
       <description></description>
     </item>
     

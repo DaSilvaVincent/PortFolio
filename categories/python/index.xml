@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Mon e-Portfolio</title>
+    <link>https://dasilvavincent.github.io/PortFolio/categories/python/</link>
+    <description>Recent content in Python on Mon e-Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Mon, 09 May 2022 10:11:52 +0200</lastBuildDate><atom:link href="https://dasilvavincent.github.io/PortFolio/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projet Mini-jeu</title>
+      <link>https://dasilvavincent.github.io/PortFolio/projets/projet-minijeu/</link>
+      <pubDate>Mon, 09 May 2022 10:11:52 +0200</pubDate>
+      
+      <guid>https://dasilvavincent.github.io/PortFolio/projets/projet-minijeu/</guid>
+      <description>Projet saé BUT1 S1</description>
+    </item>
+    
+  </channel>
+</rss>
