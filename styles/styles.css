@@ -172,7 +172,7 @@ section {
 }
 .header-content .left-header .image {
   border-radius: var(--br-sm-2);
-  height: 90%;
+  height: 75%;
   width: 68%;
   margin-left: 4rem;
   background-color: var(--color-black);
@@ -628,6 +628,7 @@ section {
 .btn-con {
   display: flex;
   align-self: flex-start;
+  padding-bottom: 10px;
 }
 
 .main-btn {
