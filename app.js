@@ -33,3 +33,15 @@ function myFunction6() {
     var popup = document.getElementById("myPopup6");
     popup.classList.toggle("show");
 }
+function myFunction7() {
+    var popup = document.getElementById("myPopup7");
+    popup.classList.toggle("show");
+}
+function myFunction8() {
+    var popup = document.getElementById("myPopup8");
+    popup.classList.toggle("show");
+}
+function myFunction9() {
+    var popup = document.getElementById("myPopup9");
+    popup.classList.toggle("show");
+}

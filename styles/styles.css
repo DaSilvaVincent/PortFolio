@@ -87,6 +87,35 @@ section {
   }
 }
 
+/* Add the following CSS rules */
+.submit-btn {
+  text-align: center;
+}
+
+.main-btn {
+  display: inline-block;
+  background-color: var(--color-primary);
+  color: var(--color-white);
+  border: none;
+  border-radius: 4px;
+  font-size: 1.1rem;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.main-btn:hover {
+  background-color: #1e8449;
+}
+
+.btn-icon {
+  margin-left: 5px;
+}
+
+.fa {
+  font-size: 1rem;
+  vertical-align: middle;
+}
+
 .controls {
   position: fixed;
   z-index: 10;
@@ -331,6 +360,24 @@ section {
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .php {
   width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .kotlin {
+  width: 85%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .javascript {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .typescript {
+  width: 70%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .angular {
+  width: 75%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .nextjs {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .react {
+  width: 60%;
 }
 
 .stat-title {
